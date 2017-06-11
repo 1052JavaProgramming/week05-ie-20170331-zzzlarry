@@ -1,11 +1,12 @@
 package hw;
-/* Topic: «Ø¥ß¤@­ÓStudent ªºÃş§O¡A¨Ã¥Î ArrayList ¶i¦æºŞ²z¡A¨Ï¥ÎªÌ¥i¥H¤@ª½¿é¤J¡A ª½¨ì¨Ï¥ÎªÌ«ö N or n ¤~µ²§ô 
- *Student ªºÃş§O¸Ì¦³ name, id ¤Î score ¤T­Ó¸ê®Æ¦¨­û¡A ¦P¾Ç¦b¥[¤Jstudent ª«¥ó¤§«á­n¯à¨Ì student ªºscore ¶i¦æ»¼´î±Æ§Ç
+/* Topic: å»ºç«‹ä¸€å€‹Student çš„é¡åˆ¥ï¼Œä¸¦ç”¨ ArrayList é€²è¡Œç®¡ç†ï¼Œä½¿ç”¨è€…å¯ä»¥ä¸€ç›´è¼¸å…¥ï¼Œ ç›´åˆ°ä½¿ç”¨è€…æŒ‰ N or n æ‰çµæŸ 
+ *Student çš„é¡åˆ¥è£¡æœ‰ name, id åŠ score ä¸‰å€‹è³‡æ–™æˆå“¡ï¼Œ åŒå­¸åœ¨åŠ å…¥student ç‰©ä»¶ä¹‹å¾Œè¦èƒ½ä¾ student çš„score é€²è¡Œéæ¸›æ’åº
  * Date:2017/04/04
- * Author: 105021018 ÂÅ¤lªB*/
+ * Author: 105021018 è—å­æœ‹*/
 public class hw01_105021018 {
 	public static void main(String[] args) {
 	
 	}
 }
+
 
